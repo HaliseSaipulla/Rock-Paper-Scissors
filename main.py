@@ -36,3 +36,4 @@ while player == False:
     computer = t[randint(0,2)]
 
     print('thank you Gina')
+    print('welcome')
